@@ -9,6 +9,9 @@ public class Plugin extends JavaPlugin {
 	
 	@Override
 	public void onEnable() {
+		
+		Manager.setPlugin(this);
+		
 		// Setup event registrations
 		PluginManager pluginManager = getServer().getPluginManager();
 		
