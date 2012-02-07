@@ -9,7 +9,7 @@ Permanently shield your most critical land from destruction using your **strongh
 * **Inauguration booth**: Allow friends to live/build in your stronghold by having them step inside this pod.
 * **Authority blocks**: Protect your stronghold from looters, limiting access to chests/doors/switches/etc. to you and your friends only.
 * **Guard blocks**: Enlist mobs to help defend walls. Choose the Skeleton, Zombie, Pigman, or Wolf to stand firm in the face of intruders, and attack known enemies on sight!
-* **Signal blocks**: Netrual visitors become enemies when they attack your stronghold, steel an item or stumble over a one of these traps.
+* **Signal blocks**: Netrual visitors become enemies when they attack your stronghold, steal an item or stumble over a one of these traps.
 * All additions integrate with redstone where possible.
 
 ## Wilderness
